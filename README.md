@@ -1,21 +1,17 @@
 # DictKit
----
 An English-Chinese translation command line tool.
 
 # Installation
----
 ```shell
 npm install dictkit -g
 ```
 
 # Usage
----
 ```shell
 dictkit -e dictionary
 ```
 
 # Document
----
 ```
 Usage: index [options]
 
@@ -27,7 +23,6 @@ Usage: index [options]
 ```
 
 # Special Thanks
----
 This tool develops with the following tools and website services:
 * Translation services: [dict.cn](http://dict.cn)
 * Commandline tool: [commander.js](https://github.com/tj/commander.js)
@@ -35,7 +30,6 @@ This tool develops with the following tools and website services:
 * Web crawling tool:[cheerio](https://github.com/cheeriojs/cheerio)
 
 # License
----
 MIT License
 
 Copyright (c) [2018] [KitYeungDev]
