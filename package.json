@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "English to Chinese Dictionary",
   "main": "index.js",
+  "bin": {
+    "dictkit": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/KitYeungDev/dictkit/issues"
   },
-  "homepage": "https://github.com/KitYeungDev/dictkit#readme"
+  "homepage": "https://github.com/KitYeungDev/dictkit#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "commander": "^2.17.0",
+    "request": "^2.87.0"
+  }
 }
