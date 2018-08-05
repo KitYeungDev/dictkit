@@ -1,0 +1,22 @@
+{
+  "name": "dictkit",
+  "version": "1.0.0",
+  "description": "English to Chinese Dictionary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KitYeungDev/dictkit.git"
+  },
+  "keywords": [
+    "dict"
+  ],
+  "author": "kit.yeung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KitYeungDev/dictkit/issues"
+  },
+  "homepage": "https://github.com/KitYeungDev/dictkit#readme"
+}
