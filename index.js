@@ -34,7 +34,7 @@ if (commander.english) {
 				if (response.statusCode == 200) {
 					const $ = cheerio.load(body);
 
-					console.log($('ul[class=dict-basic-ul]').text());
+					console.log($('ul[class=dict-basic-ul]').text().replace(/\s+/g, ""));
 				} else {
 					console.log('Response error code: ', response.statusCode);
 				}
