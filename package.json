@@ -1,6 +1,6 @@
 {
   "name": "dictkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "English to Chinese Dictionary",
   "main": "index.js",
   "bin": {
