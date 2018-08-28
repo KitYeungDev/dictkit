@@ -8,7 +8,7 @@ npm install dictkit -g
 
 # Usage
 ```shell
-dictkit -e dictionary
+dictkit -e [dictionary]
 ```
 
 # Document
