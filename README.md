@@ -13,7 +13,7 @@ dictkit -e [dictionary]
 
 # Document
 ```
-Usage: index [options]
+Usage: dictkit [options]
 
   Options:
 
