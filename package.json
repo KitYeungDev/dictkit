@@ -26,5 +26,8 @@
     "cheerio": "^1.0.0-rc.2",
     "commander": "^2.17.0",
     "request": "^2.87.0"
+  },
+  "devDependencies": {
+    "lodash": ">=4.17.11"
   }
 }
